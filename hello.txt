@@ -1,5 +1,5 @@
 
-hello git hot-fix
+hello git hot-fix changed
 hello git master do it!
 hello git hot-fix do it!
 hello git
