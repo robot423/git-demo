@@ -1,7 +1,9 @@
 
 hello git hot-fix
+<<<<<<< HEAD
 hello git master do it!
-hello git
+hello git hot-fix do it!
+>>>>>>> hot-fix
 hello git
 hello git
 hello git
