@@ -1,6 +1,6 @@
 
 hello git hot-fix
-hello git
+hello git master do it!
 hello git
 hello git
 hello git
